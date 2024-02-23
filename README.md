@@ -12,7 +12,6 @@
 
 ---
 I’m looking to collaborate and work on different software projects
-- 🌱 I’m currently learning backend development
 - 📫 You can reach me on **samueladelowo92@gmail.com**
 ---
 
